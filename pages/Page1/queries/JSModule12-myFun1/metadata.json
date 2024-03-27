@@ -1,12 +1,12 @@
 {
-  "moduleInstanceId": "Page1_JSModule11",
+  "moduleInstanceId": "Page1_JSModule12",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1_JSModule11",
+  "rootModuleInstanceId": "Page1_JSModule12",
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "myFun2",
-    "fullyQualifiedName": "_$JSModule11$_JSModule1.myFun2",
+    "name": "myFun1",
+    "fullyQualifiedName": "_$JSModule12$_JSModule1.myFun1",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -18,7 +18,7 @@
     },
     "pageId": "Page1",
     "contextType": "PAGE",
-    "collectionId": "Page1__$JSModule11$_JSModule1",
+    "collectionId": "Page1__$JSModule12$_JSModule1",
     "executeOnLoad": false,
     "clientSideExecution": true,
     "isValid": true,
@@ -30,7 +30,7 @@
     "userPermissions": [],
     "createdAt": "2024-03-27T09:16:41Z"
   },
-  "id": "Page1__$JSModule11$_JSModule1.myFun2",
+  "id": "Page1__$JSModule12$_JSModule1.myFun1",
   "deleted": false,
-  "gitSyncId": "660347d03c922a2c7a18ef97_6603e414d0d1512c2fdeaa46"
+  "gitSyncId": "660347d03c922a2c7a18ef97_6603e471d0d1512c2fdeaa9e"
 }
